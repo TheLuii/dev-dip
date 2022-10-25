@@ -3,7 +3,7 @@ import React from "react";
 import DotLoader from "react-spinners/DotLoader";
 
 
-function Loader() {
+export function Loader() {
 
     const [loading, setLoading] = useState(false);
 
@@ -25,4 +25,3 @@ function Loader() {
     );
 }
 
-export default Loader;
