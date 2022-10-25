@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dev-dip/static/css/main.5b8ca1a4.css",
+    "main.js": "/dev-dip/static/js/main.daa2d5be.js",
+    "static/js/787.29a5f1b2.chunk.js": "/dev-dip/static/js/787.29a5f1b2.chunk.js",
+    "static/media/iphone.jpg": "/dev-dip/static/media/iphone.78f57558a094f82e3805.jpg",
+    "static/media/airpods_main.jpg": "/dev-dip/static/media/airpods_main.4555e704cde8c465d002.jpg",
+    "static/media/macbook.jpg": "/dev-dip/static/media/macbook.8b365fbd8de26092698c.jpg",
+    "index.html": "/dev-dip/index.html",
+    "main.5b8ca1a4.css.map": "/dev-dip/static/css/main.5b8ca1a4.css.map",
+    "main.daa2d5be.js.map": "/dev-dip/static/js/main.daa2d5be.js.map",
+    "787.29a5f1b2.chunk.js.map": "/dev-dip/static/js/787.29a5f1b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8ca1a4.css",
+    "static/js/main.daa2d5be.js"
+  ]
+}
