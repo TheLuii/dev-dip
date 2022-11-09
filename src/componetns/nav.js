@@ -11,10 +11,10 @@ export function Nav() {
             <Route path='/home' exac element={<Home/>}/>
             <Route path='/iphone' exac element={<Iphone/>}/>
             <Route path='/cart' exac element={<Cart/>}/>
-            <Route
+            {/*<Route
         path="/"
         element={<Navigate to="/home" replace />}
-    />
+    />*/}
         </Routes>
     </BrowserRouter>
   )

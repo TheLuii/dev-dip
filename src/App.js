@@ -7,6 +7,18 @@ import Navibar from "./componetns/navbar"
 
 
 function App() {
+    return (
+        <>
+            <Navibar/>
+            <Nav/>
+        </>
+    )
+}
+
+export default App;
+
+
+{/*function App() {
 
     const [loading, setLoading] = useState(false);
 
@@ -36,4 +48,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; */}
